@@ -1,0 +1,11 @@
+{
+  "name": "SScript",
+  "license": "Apache",
+  "description": "",
+  "version": "7.7.0",
+  "classPath": "src/",
+  "releasenote": "NOT AVAILABLE",
+  "contributors": ["pkkpkk"],
+  "dependencies": {
+  }
+}
